@@ -1,7 +1,4 @@
 
 # nqhuy_4932
-Nguyen Quang huy - 2380614932
-THBMTTNC_HUTECH
-PYTHON
-
+Nguyen Quang huy - 2380614932 - THBMTTNC_HUTECH - PYTHON
 
